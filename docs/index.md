@@ -106,9 +106,13 @@ Each University and professor will have rules and guidelines on what AI use is p
 
 
 ## Prompting AI Effectively and Ethically
+
 Prompting AI is a large part of using AI effectively and ethically. Good prompt writing helps the AI produce more accurate and comprehensive answers. 
+
 ### Effective Prompt Writing
-### 1. Providing Context
+
+#### 1. Providing Context
+
 Giving context in your prompts to the AI assists the AI by giving it more parameters to work with. The AI will provide a more in depth answer based on the context of your problem compared to a simpler prompt. 
 >[!TIP]
 >Asking the AI to take on a character or voice is also an effective strategy in prompt writing
@@ -132,7 +136,9 @@ This prompt is definitely better than the last one, and will yield some good ans
 ><span style = "color:#3F3F46">Give me some historical fiction book recommendations that are no longer than 200 pages in length, contain a female main character, and was written 20th century America. Also, explain these book recommendations like a passionate English professor at a top university.</span>
     
 This is an excellent prompt! It gives the AI lots of context for the question and utilizes the AI's ability to take on a role in order to create a better, more comprehensive answer.
-### 2. Being Specific
+
+#### 2. Being Specific
+
 Creating specific prompts goes hand-in-hand with giving context to your prompts. Imposing a specific task, rules, and constraints on the AI will help direct its focus to the topic you want it to generate responses about.
 
 >[!NOTE]
@@ -144,7 +150,8 @@ Here's a good example of a specific prompt:
     
 This prompt is a good example of how good prompt writing can help you as a student in your studies. It gives a specific time period, location, and topic.
  
-### 3. Continuing the Conversation
+#### 3. Continuing the Conversation
+
 You can iron out any wrinkles in your AI's responses by continuing to talk with the AI. You do not need to repeat any context given, but you can follow up with prompts such as "now explain it to a kindergartener" or "make the response only 3 sentences long".
 >[!TIP]
 >Adding too many prompts may start to obstruct the AI's responses, especially if you switch topics. At this point, it is best to start a new chat.
@@ -152,8 +159,11 @@ You can iron out any wrinkles in your AI's responses by continuing to talk with 
 For more information on effective prompting, see [Harvard University's guide](https://www.huit.harvard.edu/news/ai-prompts) on generative AI prompts.
 
 ### Ethical Prompt Writing
-### 1. Protecting Your Data
+
+#### 1. Protecting Your Data
+
 You should always avoid sharing sensitive information and data about yourself and others to publicly accessible AI platforms. Examples of information you should avoid sharing include:
+
 * Names
 * Addresses (both physical and email)
 * Identification numbers
@@ -161,7 +171,9 @@ You should always avoid sharing sensitive information and data about yourself an
 * Company/Research Data that is not available to the public
 
 Many publicly available AI tools learn from the data that its users input. This means that your sensitive data could be used for training or appear in future outputs from the AI.
-### 2. Bias in Prompt Writing
+
+#### 2. Bias in Prompt Writing
+
 Biased prompts can influence the AI to reinforce harmful biases and misinformation. It is very easy to unintentionally create prompts that lead towards a harmful stereotype that can skew the responses given by the AI.
 
 **Example**
