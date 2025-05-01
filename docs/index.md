@@ -123,7 +123,7 @@ Let's take a look at some different prompts
 
 ><span style = "color:#3F3F46">Give me some book recommendations
 
-This prompt is super vague and offers very little context to the AI, which will result in the AI not giving a very good answer.
+This super vague prompt offers very little context to the AI, which will result in the AI not giving a very good answer.
 
 **Example**
 
@@ -180,7 +180,7 @@ Biased prompts can influence the AI to reinforce harmful biases and misinformati
     
 ><span style = "color:#3F3F46">Why are students from community colleges less prepared for engineering programs?</span>
     
-This prompt assumes that transfer students from community colleges are already less prepared than a student who attended a 4 year university from the start of their college career. This is an example of a prompt that contains a harmful bias that will affect how the AI responds to the prompt.
+This prompt assumes that transfer students from community colleges are already less prepared than a student who attended a 4-year university from the start of their college career. This shows how a prompt that contains a harmful bias will affect how the AI responds to the prompt.
     
 This prompt can be fixed by rephrasing it as:
 ><span style = "color:#3F3F46">What barriers might students from community colleges face when transferring to engineering programs at four-year universities, and how can those be addressed?</span>
