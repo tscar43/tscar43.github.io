@@ -189,6 +189,8 @@ This prompt avoids bias and frames the question in a way that supports community
  
 Further information on ethical prompt writing is available on [Arkansas State University's guide](https://libguides.astate.edu/ai/home) to using AI in academic settings.
 
+>[!Important]
+>Be sure to consult your own university's policies on generative AI use to ensure that you are using AI ethically.
 
 
 
