@@ -51,7 +51,7 @@ A: 8 bits](https://hackmd.io/_uploads/BygnGP7Ayg.png)
 
 
 ### Explaining Concepts
-   - Simply asking a LLM to explain a concept with examples is often not better than a Youtube video. AI shines in the department of instantly answering clarifying questions. 
+   - YouTube will often better assist you in comprehending difficult concepts. AI models on the other hand have an advantage when it comes to clarifying questions on top of explaining the initial concept.
 
 ![Prompt given to ChatGPT:"Can you explain photosynthesis for me?" AI response: Absolutely! Here's a clear and simple explanation of photosynthesis:
 🌱 What is Photosynthesis?
