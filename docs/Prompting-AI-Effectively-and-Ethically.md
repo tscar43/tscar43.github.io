@@ -80,7 +80,7 @@ Biased prompts can influence the AI to reinforce harmful biases and misinformati
 This prompt assumes that transfer students from community colleges are already less prepared than a student who attended a 4-year university from the start of their college career. This shows how a prompt that contains a harmful bias will affect how the AI responds to the prompt.
     
 This prompt can be fixed by rephrasing it as:
-><span style = "color:#3F3F46">What barriers might students from community colleges face when transferring to engineering programs at four-year universities, and how can those be addressed?</span>
+"><span style = "color:#3F3F46">"What barriers might students from community colleges face when transferring to engineering programs at four-year universities, and how can those be addressed?"
     
 This prompt avoids bias and frames the question in a way that supports community college transfer students. 
  
