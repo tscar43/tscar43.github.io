@@ -16,7 +16,7 @@ Let's take a look at some different prompts
 
 !!! example
 
-Give me some book recommendations
+    Give me some book recommendations
 
 This super vague prompt offers very little context to the AI, which will result in the AI not giving a very good answer.
 
@@ -42,7 +42,9 @@ Creating specific prompts goes hand-in-hand with giving context to your prompts.
 
 Here's a good example of a specific prompt:
 
-><span style = "color:#3F3F46">I'm interested in learning more about jazz history. Can you give me examples of jazz artists that influenced the spread of the Harlem Renaissance in 1920's Harlem, New York?</span>
+!!! example
+
+    I'm interested in learning more about jazz history. Can you give me examples of jazz artists that influenced the spread of the Harlem Renaissance in 1920's Harlem, New York?</span>
     
 This prompt is a good example of how good prompt writing can help you as a student in your studies. It gives a specific time period, location, and topic.
  
