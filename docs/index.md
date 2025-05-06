@@ -9,7 +9,7 @@ Many universities now maintain policies that govern the use of AI in coursework.
 This guide outlines practical and ethical ways to integrate AI tools into your academic work. The goal is to help you benefit from what these technologies offer without sacrificing the skills and critical thinking that only come through active engagement. 
 
 
-## What is covered
+## What this guide covers
 * Situations to use AI
 * Situations to not use AI
 * How to prompt effectively and ethically
