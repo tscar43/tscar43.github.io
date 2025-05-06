@@ -69,7 +69,7 @@ Water (H₂O) from the soil](https://hackmd.io/_uploads/HJEZGP7A1e.png)
    - It can help with pronunciation and help explain grammar in a way that a tool like google translate would not.
 
 ### Time Management and Productivity
-   - AI-powered tools such as calendars can assist in scheduling, setting reminders, and managing tasks efficiently.
+   - AI-powered tools such as [calandars](https://www.usemotion.com/?utm_source=google&utm_medium=20228218769&utm_campaign=&utm_term=&utm_content=&gad_source=1&gad_campaignid=20223451353&gbraid=0AAAAAB-MTPuEYgmXC_0t6PE6G3JUMU03a&gclid=EAIaIQobChMI7sH1ip2PjQMV3mNHAR0dbBhXEAAYAiAAEgIJ5PD_BwE) can assist in scheduling, setting reminders, and managing tasks efficiently.
    - It can help prioritize assignments based on time and/or difficulty allowing you to focus on your work more.
 
 ### Brainstorming and Creativity
