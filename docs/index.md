@@ -38,8 +38,8 @@ However, it's nonsensical or humorous in meaning—since "red" and "purple" aren
    - It can generate documentation with documentation for languages like markdown and help with syntax.
 
 ### Study and Revision
-   - AI is an incredibly powerful tool when it comes to studying. Summarizing lots of text/data and spitting out flashcards, quizzes or another mode of media can be very effective.
-   - It is a good way to substitute studying with another peer if no one is available
+   - AI aides in studying as a powerful tool by summarizing lots of text/data and spitting out flashcards, quizzes or another mode of media can be very effective.
+   - AI can serve as a substitute to another peer if no one is available
 
 ![Prompt given to ChatGPT:"Create flashcards for learning how many bits are in data types." AI response:Sure! Here’s a set of digital flashcards to help you learn how many bits are in common data types (typically in C/C++, Java, or similar languages). Keep in mind that the size can vary by system and language, but these are the standard/common ones:
 📇 Flashcard 1
