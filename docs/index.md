@@ -9,14 +9,14 @@ Many universities now maintain policies that govern the use of AI in coursework.
 This guide outlines practical and ethical ways to integrate AI tools into your academic work. The goal is to help you benefit from what these technologies offer without sacrificing the skills and critical thinking that only come through active engagement. 
 
 
-## What this guide covers
+## What This Guide Covers
 * Situations to use AI
 * Situations to not use AI
 * How to prompt AI effectively and ethically
 
 ## Situations to Use AI
 AI is a powerful tool that we can use to enhance learning, boost productivity, and support creative or technical tasks. Whether you're tackling a complex assignment, trying to stay organized, or just need help understanding a difficult concept, AI can serve as a versatile companion. Below are some of the most effective ways to incorporate AI.
-### Summarizing data and text
+### Summarizing Data and Text
    - AI condenses lengthy articles, research papers, or textbook chapters into key points.
    - It extracts patterns from datasets, helping to identify trends.
    - AI tools generate summaries of lecture notes or meeting transcripts for quick review.
@@ -64,7 +64,7 @@ Water (H₂O) from the soil](https://hackmd.io/_uploads/HJEZGP7A1e.png)
 
 
 
-### Other languages
+### Other Languages
    - AI can translate text, correct grammar, and provide conversational practice in different languages.
    - It can help with pronunciation and help explain grammar in a way that a tool like google translate would not.
 
