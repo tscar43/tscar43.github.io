@@ -35,7 +35,7 @@ However, it's nonsensical or humorous in meaning—since "red" and "purple" aren
 
 ### Coding Help
    - AI can assist in debugging code, explaining concepts, and offering example implementations.
-   - It can generate documentation with things like markdown and help with syntax.
+   - It can generate documentation with documentation for languages like markdown and help with syntax.
 
 ### Study and Revision
    - AI is an incredibly powerful tool when it comes to studying. Summarizing lots of text/data and spitting out flashcards, quizzes or another mode of media can be very effective.
