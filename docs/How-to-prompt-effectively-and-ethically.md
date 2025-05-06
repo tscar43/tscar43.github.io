@@ -1,6 +1,6 @@
 ## Prompting AI Effectively and Ethically
 
-Prompting AI is a large part of using AI effectively and ethically. Good prompt writing helps the AI produce more accurate and comprehensive answers. 
+Prompting AI is a large part of using AI effectively and ethically. Good prompt writing helps the AI produce more accurate and comprehensive answers.
 
 ### Effective Prompt Writing
 
@@ -47,7 +47,7 @@ Here's a good example of a specific prompt:
     I'm interested in learning more about jazz history. Can you give me examples of jazz artists that influenced the spread of the Harlem Renaissance in 1920's Harlem, New York?</span>
     
 This prompt is a good example of how good prompt writing can help you as a student in your studies. It gives a specific time period, location, and topic.
- 
+
 #### 3. Continuing the Conversation
 
 You can iron out any wrinkles in your AI's responses by continuing to talk with the AI. You do not need to repeat any context given, but you can follow up with prompts such as "now explain it to a kindergartener" or "make the response only 3 sentences long".
@@ -76,24 +76,20 @@ Many publicly available AI tools learn from the data that its users input. This 
 Biased prompts can influence the AI to reinforce harmful biases and misinformation. It is very easy to unintentionally create prompts that lead towards a harmful stereotype that can skew the responses given by the AI.
 
 !!! example
-    
+
     Why are students from community colleges less prepared for engineering programs?</span>
     
 This prompt assumes that transfer students from community colleges are already less prepared than a student who attended a 4-year university from the start of their college career. This shows how a prompt that contains a harmful bias will affect how the AI responds to the prompt.
-    
+
 This prompt can be fixed by rephrasing it as:
 
 "What barriers might students from community colleges face when transferring to engineering programs at four-year universities, and how can those be addressed?"
-    
-This prompt avoids bias and frames the question in a way that supports community college transfer students. 
- 
+
+This prompt avoids bias and frames the question in a way that supports community college transfer students.
+
 Further information on ethical prompt writing is available on [Arkansas State University's guide](https://libguides.astate.edu/ai/home) to using AI in academic settings.
 
 !!! failure "Important"
 
     Be sure to consult your own university's policies on generative AI use to ensure that you are using AI ethically.
-
-
-
-
-
+    
