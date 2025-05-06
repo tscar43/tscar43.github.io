@@ -6,9 +6,11 @@ Prompting AI is a large part of using AI effectively and ethically. Good prompt 
 
 #### 1. Providing Context
 
-Giving context in your prompts to the AI assists the AI by giving it more parameters to work with. The AI will provide a more in depth answer based on the context of your problem compared to a simpler prompt. 
->[!TIP]
->Asking the AI to take on a character or voice is also an effective strategy in prompt writing
+Giving context in your prompts to the AI assists the AI by giving it more parameters to work with. The AI will provide a more in depth answer based on the context of your problem compared to a simpler prompt.
+
+!!! tip
+
+    Asking the AI to take on a character or voice is also an effective strategy in prompt writing
 
 Let's take a look at some different prompts
 
@@ -34,8 +36,9 @@ This is an excellent prompt! It gives the AI lots of context for the question an
 
 Creating specific prompts goes hand-in-hand with giving context to your prompts. Imposing a specific task, rules, and constraints on the AI will help direct its focus to the topic you want it to generate responses about.
 
->[!NOTE]
->You'll notice that in our final example from last section that we provided the AI with a specific time period and location. This is a good example of creating specificity in your prompts.
+!!! note
+
+    You'll notice that in our final example from last section that we provided the AI with a specific time period and location. This is a good example of creating specificity in your prompts.
 
 Here's a good example of a specific prompt:
 
@@ -46,8 +49,9 @@ This prompt is a good example of how good prompt writing can help you as a stude
 #### 3. Continuing the Conversation
 
 You can iron out any wrinkles in your AI's responses by continuing to talk with the AI. You do not need to repeat any context given, but you can follow up with prompts such as "now explain it to a kindergartener" or "make the response only 3 sentences long".
->[!TIP]
->Adding too many prompts may start to obstruct the AI's responses, especially if you switch topics. At this point, it is best to start a new chat.
+!!! tip
+
+    Adding too many prompts may start to obstruct the AI's responses, especially if you switch topics. At this point, it is best to start a new chat.
 
 For more information on effective prompting, see [Harvard University's guide](https://www.huit.harvard.edu/news/ai-prompts) on generative AI prompts.
 
@@ -69,9 +73,9 @@ Many publicly available AI tools learn from the data that its users input. This 
 
 Biased prompts can influence the AI to reinforce harmful biases and misinformation. It is very easy to unintentionally create prompts that lead towards a harmful stereotype that can skew the responses given by the AI.
 
-**Example**
+!!! example
     
-><span style = "color:#3F3F46">Why are students from community colleges less prepared for engineering programs?</span>
+    Why are students from community colleges less prepared for engineering programs?</span>
     
 This prompt assumes that transfer students from community colleges are already less prepared than a student who attended a 4-year university from the start of their college career. This shows how a prompt that contains a harmful bias will affect how the AI responds to the prompt.
     
@@ -82,8 +86,9 @@ This prompt avoids bias and frames the question in a way that supports community
  
 Further information on ethical prompt writing is available on [Arkansas State University's guide](https://libguides.astate.edu/ai/home) to using AI in academic settings.
 
->[!Important]
->Be sure to consult your own university's policies on generative AI use to ensure that you are using AI ethically.
+!!! failure "Important"
+
+    Be sure to consult your own university's policies on generative AI use to ensure that you are using AI ethically.
 
 
 
