@@ -12,7 +12,7 @@ This guide outlines practical and ethical ways to integrate AI tools into your a
 ## What this guide covers
 * Situations to use AI
 * Situations to not use AI
-* How to prompt effectively and ethically
+* How to prompt AI effectively and ethically
 
 ## Situations to Use AI
 AI is a powerful tool that we can use to enhance learning, boost productivity, and support creative or technical tasks. Whether you're tackling a complex assignment, trying to stay organized, or just need help understanding a difficult concept, AI can be a versatile companion. Below are some of the most effective ways to incorporate AI.
