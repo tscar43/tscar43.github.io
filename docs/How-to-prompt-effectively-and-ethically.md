@@ -14,21 +14,21 @@ Giving context in your prompts to the AI assists the AI by giving it more parame
 
 Let's take a look at some different prompts
 
-**Example**
+!!! example
 
-><span style = "color:#3F3F46">Give me some book recommendations
+Give me some book recommendations
 
 This super vague prompt offers very little context to the AI, which will result in the AI not giving a very good answer.
 
-**Example**
+!!! example
 
-><span style = "color:#3F3F46">Give me some historical fiction book recommendations that are no longer than 200 pages in length and contain a female main character</span>
+    Give me some historical fiction book recommendations that are no longer than 200 pages in length and contain a female main character
     
 This prompt is definitely better than the last one, and will yield some good answers, but it can still be improved.
 
-**Example**
+!!! example
 
-><span style = "color:#3F3F46">Give me some historical fiction book recommendations that are no longer than 200 pages in length, contain a female main character, and was written 20th century America. Also, explain these book recommendations like a passionate English professor at a top university.</span>
+    Give me some historical fiction book recommendations that are no longer than 200 pages in length, contain a female main character, and was written 20th century America. Also, explain these book recommendations like a passionate English professor at a top university.
     
 This is an excellent prompt! It gives the AI lots of context for the question and utilizes the AI's ability to take on a role in order to create a better, more comprehensive answer.
 
@@ -80,7 +80,8 @@ Biased prompts can influence the AI to reinforce harmful biases and misinformati
 This prompt assumes that transfer students from community colleges are already less prepared than a student who attended a 4-year university from the start of their college career. This shows how a prompt that contains a harmful bias will affect how the AI responds to the prompt.
     
 This prompt can be fixed by rephrasing it as:
-"><span style = "color:#3F3F46">"What barriers might students from community colleges face when transferring to engineering programs at four-year universities, and how can those be addressed?"
+
+"What barriers might students from community colleges face when transferring to engineering programs at four-year universities, and how can those be addressed?"
     
 This prompt avoids bias and frames the question in a way that supports community college transfer students. 
  
