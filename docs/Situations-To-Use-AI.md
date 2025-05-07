@@ -61,4 +61,5 @@ Water (H₂O) from the soil](https://hackmd.io/_uploads/HJEZGP7A1e.png)
    - The results that you can get may be limited because of the nature of AI models but can be a good starting point. 
 
 !!! failure "Important"
-   While AI can be very helpful, you should always verify information from credible sources and ensure your work remains original, and follow academic integrity guidelines from your institution. AI should be used as a tool for learning, not a replacement for critical thinking.
+
+    While AI can be very helpful, you should always verify information from credible sources and ensure your work remains original, and follow academic integrity guidelines from your institution. AI should be used as a tool for learning, not a replacement for critical thinking.
