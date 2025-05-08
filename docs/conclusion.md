@@ -1,4 +1,4 @@
-## Conclusion: Practicing Integrity in the Age of AI
+## Practicing Integrity in the Age of AI
 
 As AI continues to become more integrated into academic life, you must adapt with equal parts curiosity and responsibility. Ethical AI use isn’t just about avoiding misconduct, it’s about preserving the integrity of your learning and taking ownership of your educational journey.
 
