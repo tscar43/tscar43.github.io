@@ -73,7 +73,7 @@ Many publicly available AI tools learn from the data that its users input. This 
 
 #### 2. Bias in Prompt Writing
 
-Biased prompts can influence the AI to reinforce harmful biases and misinformation. It is very easy to unintentionally create prompts that lead towards a harmful stereotype that can skew the responses given by the AI.
+Biased prompts can influence the AI to reinforce harmful biases and misinformation. These prompts are very easy to create unintentionally, leading towards a harmful stereotype that can skew the responses given by the AI.
 
 !!! example
 
